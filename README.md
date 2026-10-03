@@ -1,6 +1,8 @@
 # ZephyrianDawnstrider
 
-I build practical AI and developer tools, logistics software, and workflow applications.
+<img src="assets/portfolio/builder-workbench.png" width="100%" alt="Wide navy workbench illustration with an open notebook, cargo box with code brackets, calculator, and planning tools." />
+
+Curious builder with a few too many tabs open—usually somewhere between AI tools, logistics, and practical apps. I like turning side quests into small, testable projects people can explore.
 
 **Tools across these projects:** Python · Django · CLI and browser workflows
 
@@ -29,3 +31,7 @@ I build practical AI and developer tools, logistics software, and workflow appli
 </details>
 
 Screenshots use synthetic demo data.
+
+### Side quest
+
+[EngCalc](https://github.com/ZephyrianDawnstrider/EngCalc) — A focused FastAPI bolt-shear calculator with tests.
