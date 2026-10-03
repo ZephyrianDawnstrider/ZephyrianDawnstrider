@@ -10,9 +10,9 @@ Curious builder with a few too many tabs open—usually somewhere between AI too
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [Arena for ChatGPT + Codex](https://github.com/ZephyrianDawnstrider/arena-openai) | Budgeted tournament workflows for generating, reviewing, and refining candidate solutions. | [Released v0.3.1](https://github.com/ZephyrianDawnstrider/arena-openai/releases/tag/v0.3.1) |
-| [Asset Management System](https://github.com/ZephyrianDawnstrider/asset_management_system) | Employee and asset records with assignment, return, and custody history. | Local MVP · 13 tests · single-operator SQLite |
-| [Cargo Fit Planner](https://github.com/ZephyrianDawnstrider/new_and_improved_dcd) | Quantity-aware cargo placement checks, a 3D view, and exports from the displayed plan. | Local MVP · 18 tests · one standard 20 ft profile |
+| [Arena for ChatGPT + Codex](https://github.com/ZephyrianDawnstrider/arena-openai) | Budgeted tournament workflows for generating, reviewing, and refining candidate solutions. | [Released v0.3.2](https://github.com/ZephyrianDawnstrider/arena-openai/releases/tag/v0.3.2) |
+| [Asset Management System](https://github.com/ZephyrianDawnstrider/asset_management_system) | Employee and asset records with assignment, return, and custody history. | Local MVP · 19 tests · single-operator SQLite |
+| [Cargo Fit Planner](https://github.com/ZephyrianDawnstrider/cargo-fit-planner) | Quantity-aware cargo placement checks, a 3D view, and exports from the displayed plan. | Local MVP · 28 tests · one standard 20 ft profile |
 
 ### Project previews
 
@@ -34,4 +34,4 @@ Screenshots use synthetic demo data.
 
 ### Side quest
 
-[EngCalc](https://github.com/ZephyrianDawnstrider/EngCalc) — A focused FastAPI bolt-shear calculator with tests.
+[EngCalc](https://github.com/ZephyrianDawnstrider/EngCalc) — Educational bolt-shank shear-yield calculator · v1 · 33 tests · versioned reports.
