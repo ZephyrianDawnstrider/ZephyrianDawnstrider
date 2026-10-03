@@ -4,7 +4,7 @@
 
 Curious builder with a few too many tabs open—usually somewhere between AI tools, logistics, and practical apps. I like turning side quests into small, testable projects people can explore.
 
-**Tools across these projects:** Python · Django · CLI and browser workflows
+**Tools across these projects:** Python · Django · React · TypeScript · CLI and browser workflows
 
 ## Selected projects
 
@@ -12,7 +12,7 @@ Curious builder with a few too many tabs open—usually somewhere between AI too
 | --- | --- | --- |
 | [Arena for ChatGPT + Codex](https://github.com/ZephyrianDawnstrider/arena-openai) | Budgeted tournament workflows for generating, reviewing, and refining candidate solutions. | [Released v0.3.2](https://github.com/ZephyrianDawnstrider/arena-openai/releases/tag/v0.3.2) |
 | [Asset Management System](https://github.com/ZephyrianDawnstrider/asset_management_system) | Employee and asset records with assignment, return, and custody history. | Local MVP · 19 tests · single-operator SQLite |
-| [Cargo Fit Planner](https://github.com/ZephyrianDawnstrider/cargo-fit-planner) | Quantity-aware cargo placement checks, a 3D view, and exports from the displayed plan. | Local MVP · 28 tests · one standard 20 ft profile |
+| [Cargo Fit Planner](https://github.com/ZephyrianDawnstrider/cargo-fit-planner) · [Live app](https://cargo-fit-planner.onrender.com/) | Quantity-aware cargo placement checks, a 3D view, and exports from the displayed plan. | Local MVP · 28 tests · one standard 20 ft profile |
 
 ### Project previews
 
@@ -34,4 +34,4 @@ Screenshots use synthetic demo data.
 
 ### Side quest
 
-[EngCalc](https://github.com/ZephyrianDawnstrider/EngCalc) — Educational bolt-shank shear-yield calculator · v1 · 33 tests · versioned reports.
+[EngCalc](https://github.com/ZephyrianDawnstrider/EngCalc) · [Live app](https://engcalc-frontend.onrender.com/) — Educational bolt-shank shear-yield calculator · v1 · offline after initial load · reports stay on this device.
