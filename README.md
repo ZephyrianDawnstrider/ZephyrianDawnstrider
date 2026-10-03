@@ -11,7 +11,7 @@ Curious builder with a few too many tabs open—usually somewhere between AI too
 | Project | What it does | Status |
 | --- | --- | --- |
 | [Arena for ChatGPT + Codex](https://github.com/ZephyrianDawnstrider/arena-openai) | Budgeted tournament workflows for generating, reviewing, and refining candidate solutions. | [Released v0.3.2](https://github.com/ZephyrianDawnstrider/arena-openai/releases/tag/v0.3.2) |
-| [Asset Management System](https://github.com/ZephyrianDawnstrider/asset_management_system) | Employee and asset records with assignment, return, and custody history. | Local MVP · 19 tests · single-operator SQLite |
+| [Asset Management System](https://github.com/ZephyrianDawnstrider/asset_management_system) · [Live app](https://asset-management-portfolio.onrender.com/) | Employee and asset records with assignment, return, and custody history. | Hosted MVP · staff sign-in required · 19 tests · single-operator SQLite |
 | [Cargo Fit Planner](https://github.com/ZephyrianDawnstrider/cargo-fit-planner) · [Live app](https://cargo-fit-planner.onrender.com/) | Quantity-aware cargo placement checks, a 3D view, and exports from the displayed plan. | Hosted MVP · 28 tests · one standard 20 ft profile |
 
 ### Project previews
